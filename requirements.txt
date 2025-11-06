@@ -1,11 +1,12 @@
--U agno
--U ddgs
+U agno
+U ddgs
 groq
--U crawl4ai
--U googlesearch-python pycountry
+U crawl4ai
+U googlesearch-python pycountry
 streamlit
 python-dotenv
 requests
 google-api-python-client
 googlesearch-python
+
 pycountry
